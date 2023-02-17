@@ -1,4 +1,4 @@
-namespace BasketBallHoopsAPI
+namespace BasketBallHoopsAPI.Models
 {
     public class WeatherForecast
     {

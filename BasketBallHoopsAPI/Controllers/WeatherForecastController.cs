@@ -1,3 +1,4 @@
+using BasketBallHoopsAPI.Models;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BasketBallHoopsAPI.Controllers
